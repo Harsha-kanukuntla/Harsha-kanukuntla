@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Harsha </h1>
 <h3 align="center">🚀 DevOps Engineer | Automating Infrastructure & CI/CD Pipelines</h3>
 
-<!-- Typing Effect Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🚀+DevOps+Engineer;🔧+CI%2FCD+Automation+Expert;☁️+Cloud+Infrastructure+Architect;🛠️+Docker+%7C+Kubernetes+%7C+Terraform;💡+Always+Learning+and+Optimizing" alt="Typing SVG" />
-</p>
 
 ---
 
