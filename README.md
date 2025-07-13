@@ -19,7 +19,7 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/kanukuntla-harsha)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanukuntla-harsha)
 - 🧑‍💻 [GitHub]([https://github.com/YourUsername](https://github.com/Harsha-kanukuntla))
 
 
@@ -39,13 +39,13 @@
 
 - 💬 Ask me about **Linux, Docker, GitHub Actions, Jenkins, AWS, Terraform, Monitoring, CI/CD**
 
-- 📫 How to reach me: **devulapallymaheshbabu@gmail.com**
+- 📫 How to reach me: **kanukuntlaharsha77@gmail.com**
 
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/kanukuntla-harsha" target="_blank">
+  <a href="https://www.linkedin.com/in/kanukuntla-harsha" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" />
   </a>
 </p>
