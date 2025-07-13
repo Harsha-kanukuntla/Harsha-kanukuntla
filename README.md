@@ -1,50 +1,35 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<!-- Animated DevOps Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/PC.gif" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm [Your Name Here]</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | Automation Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
+<h3 align="center">🚀 DevOps Engineer | Automating Infrastructure & CI/CD Pipelines</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
-
-<p align="left">
-🔧 Passionate about automating infrastructure, improving software delivery pipelines, and scaling systems in the cloud.  
-🌐 Experienced with AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and more.  
-📚 Always learning and exploring DevOps tools & SRE practices.  
+<!-- Typing Effect Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=🚀+DevOps+Engineer;🔧+CI%2FCD+Automation+Expert;☁️+Cloud+Infrastructure+Architect;🛠️+Docker+%7C+Kubernetes+%7C+Terraform;💡+Always+Learning+and+Optimizing" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+- ☁️ **Cloud**: AWS, Azure, GCP
+- 📦 **Containers**: Docker, Kubernetes
+- 🔧 **IaC**: Terraform, Ansible
+- 🔄 **CI/CD**: GitHub Actions, Jenkins, GitLab CI
+- 💻 **Scripting**: Bash, Python
+- 📈 **Monitoring**: Prometheus, Grafana, ELK Stack
+- 🧪 **Testing**: Postman, REST Assured
+- 🔐 **Security**: IAM, Vault, Secrets Manager
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🧑‍💻 [GitHub](https://github.com/YourUsername)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak"/>
-</p>
 
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="website" height="30" width="40" /></a>
-</p>
 
 <!-- <p align="left"> <a href="https://twitter.com/deepanshu_1106" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshu_1106?logo=twitter&style=for-the-badge" alt="deepanshu_1106" /></a> </p> -->
 
