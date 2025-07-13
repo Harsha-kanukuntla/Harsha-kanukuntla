@@ -19,8 +19,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 🧑‍💻 [GitHub](https://github.com/YourUsername)
+- 💼 [LinkedIn](www.linkedin.com/in/kanukuntla-harsha)
+- 🧑‍💻 [GitHub]([https://github.com/YourUsername](https://github.com/Harsha-kanukuntla))
 
 
 <!--
@@ -45,7 +45,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahesh-babu-5bb437334" target="_blank">
+  <a href="www.linkedin.com/in/kanukuntla-harsha" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" />
   </a>
 </p>
