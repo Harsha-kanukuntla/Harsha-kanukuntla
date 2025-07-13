@@ -1,7 +1,4 @@
-<!-- Animated DevOps Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/PC.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
 <h3 align="center">🚀 DevOps Engineer | Automating Infrastructure & CI/CD Pipelines</h3>
