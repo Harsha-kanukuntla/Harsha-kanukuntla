@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
+<h1 align="center">Hi 👋, I'm Harsha </h1>
 <h3 align="center">🚀 DevOps Engineer | Automating Infrastructure & CI/CD Pipelines</h3>
 
 <!-- Typing Effect Animation -->
